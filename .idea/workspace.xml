@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28ec059d-2a5f-4fe5-8e9d-9313a878a21f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio2_9/ConvertirMetros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio2_9/ConvertirVolumen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio2_9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio2_9/convertir_M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="28ec059d-2a5f-4fe5-8e9d-9313a878a21f" name="Changes" comment="completando">
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio2_10/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio2_10/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio2_10/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2_9/ConvertirMetros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2_9/ConvertirVolumen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2_9/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2_9/convertir_M2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +50,14 @@
       <option name="presentableId" value="Default" />
       <updated>1698270417426</updated>
     </task>
+    <task id="LOCAL-00001" summary="completando">
+      <created>1698272145422</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698272145422</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completando" />
+    <option name="LAST_COMMIT_MESSAGE" value="completando" />
   </component>
 </project>
